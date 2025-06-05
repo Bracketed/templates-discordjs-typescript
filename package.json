@@ -1,6 +1,6 @@
 {
 	"name": "@ninjaninja140/discord-ts-template",
-	"packageManager": "yarn@4.6.0",
+	"packageManager": "yarn@4.9.2",
 	"private": true,
 	"main": "dist/Entrypoint.js",
 	"type": "module",
