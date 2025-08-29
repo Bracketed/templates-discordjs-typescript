@@ -6,9 +6,9 @@ __metadata:
   cacheKey: 10
 
 "@bracketed/typescript-config@npm:^4.4.0":
-  version: 4.4.0
-  resolution: "@bracketed/typescript-config@npm:4.4.0"
-  checksum: 10/460381e7511de52b28bda9e0cd67885bc3cd3f6f4e26dd4ed965877eab01ad1317e9ef3dd56944a49ff1550a9f534ba6dc30c97b6688c754d47f20a0cfe5795a
+  version: 4.7.0
+  resolution: "@bracketed/typescript-config@npm:4.7.0"
+  checksum: 10/4b03934bfc7b6f253e9b76c214ab98c63ff924e812a86cfcd085522c8d9a4c96026c507df3d93911169201274ebfbc98a42f2a249285ed56d23c769c7466426c
   languageName: node
   linkType: hard
 
